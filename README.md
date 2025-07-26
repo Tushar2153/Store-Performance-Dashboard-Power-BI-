@@ -66,9 +66,6 @@ This project leverages a robust set of tools for data processing, visualization,
 | **Automation (optional)** | Google Apps Script or Python scripts for preprocessing |
 | **Deployment**     | Published to Power BI Service or embedded in an internal dashboard hub |
 
-## 💡 Getting Started (optional)
-
-Include setup instructions or links to published dashboards if applicable.
 
 ## 📥 Feedback & Contributions
 
